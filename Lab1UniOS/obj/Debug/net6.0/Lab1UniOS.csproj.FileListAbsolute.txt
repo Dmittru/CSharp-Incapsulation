@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Lab1UniOS\Lab1UniOS\bin\Debug\net6.0\Lab1UniOS.exe
+C:\Users\User\source\repos\Lab1UniOS\Lab1UniOS\bin\Debug\net6.0\Lab1UniOS.deps.json
+C:\Users\User\source\repos\Lab1UniOS\Lab1UniOS\bin\Debug\net6.0\Lab1UniOS.runtimeconfig.json
+C:\Users\User\source\repos\Lab1UniOS\Lab1UniOS\bin\Debug\net6.0\Lab1UniOS.dll
+C:\Users\User\source\repos\Lab1UniOS\Lab1UniOS\bin\Debug\net6.0\Lab1UniOS.pdb
+C:\Users\User\source\repos\Lab1UniOS\Lab1UniOS\obj\Debug\net6.0\Lab1UniOS.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Lab1UniOS\Lab1UniOS\obj\Debug\net6.0\Lab1UniOS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Lab1UniOS\Lab1UniOS\obj\Debug\net6.0\Lab1UniOS.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Lab1UniOS\Lab1UniOS\obj\Debug\net6.0\Lab1UniOS.AssemblyInfo.cs
+C:\Users\User\source\repos\Lab1UniOS\Lab1UniOS\obj\Debug\net6.0\Lab1UniOS.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Lab1UniOS\Lab1UniOS\obj\Debug\net6.0\Lab1UniOS.dll
+C:\Users\User\source\repos\Lab1UniOS\Lab1UniOS\obj\Debug\net6.0\refint\Lab1UniOS.dll
+C:\Users\User\source\repos\Lab1UniOS\Lab1UniOS\obj\Debug\net6.0\Lab1UniOS.pdb
+C:\Users\User\source\repos\Lab1UniOS\Lab1UniOS\obj\Debug\net6.0\Lab1UniOS.genruntimeconfig.cache
+C:\Users\User\source\repos\Lab1UniOS\Lab1UniOS\obj\Debug\net6.0\ref\Lab1UniOS.dll
